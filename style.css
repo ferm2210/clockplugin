@@ -1,7 +1,15 @@
+div {
+   width: min-content;
+}
+
 .clock {
    font-family: Orbitron;
 }
 
 #MyClockDisplay {
    background: rgb(180, 165, 165);
+}
+
+#MyClockDisplay1 {
+   background: rgb(109, 125, 168);
 }
